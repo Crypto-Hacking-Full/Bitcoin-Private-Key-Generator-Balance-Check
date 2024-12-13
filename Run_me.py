@@ -1,6 +1,6 @@
 # Bitcoin Brute Force Wallet | Crack BTC | 
 #Earn And Donate 
-#~BTC Address: 1mRae8XtcbfHth9R7WFn5EytBT3UiZUAR ~
+#~BTC Address:  ~
 
 import bit
 import secrets
